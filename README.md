@@ -8,11 +8,11 @@ To use on your computer download the *Projet1_HousePricePrediction.ipynb* and th
 
 These are the libraries that we'll use for this project
 
-import numpy as np
-import pandas as pd
-import tensorflow as tf
-import seaborn as sns
-import matplotlib.pyplot as plt
+* import numpy as np
+* import pandas as pd
+* import tensorflow as tf
+* import seaborn as sns
+* import matplotlib.pyplot as plt
 
 ## Data extraction and manipulation
 
